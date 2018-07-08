@@ -2,6 +2,8 @@
 
 ## A GUI client for the youtube-dl module
 
+[Check out YOUTUBE-DL project](https://github.com/rg3/youtube-dl)
+
 This is a simple Qt client for those who are do not want to use the terminal/cmd and/or are not familiar with python. The idea is to simplify into a GUI.
 
 ### Current Status
