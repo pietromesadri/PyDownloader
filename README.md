@@ -20,3 +20,4 @@ This is a simple Qt client for those who do not want to use the terminal/cmd and
 * Enable Options (format, file name etc)
 * Preview thumbnail
 * Search in App
+* Add an URL validator
